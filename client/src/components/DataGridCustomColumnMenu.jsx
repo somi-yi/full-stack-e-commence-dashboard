@@ -1,7 +1,6 @@
 import {
   GridColumnMenuContainer,
   GridToolbarFilterButton,
-  HideGridColMenuItem,
 } from "@mui/x-data-grid";
 
 const CustomColumnMenu = (props) => {
