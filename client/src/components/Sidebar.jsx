@@ -4,7 +4,7 @@ import { useLocation, useNavigate } from "react-router-dom";
 import { useEffect, useState } from "react";
 import { FlexBetween } from ".";
 import sideBarNavData from "constants/sideBarNavData";
-import profileImage from "assets/profile.jpg";
+import profileImage from "assets/profile.jpeg";
 
 
 const Sidebar = ({
